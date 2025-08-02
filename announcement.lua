@@ -1,0 +1,1 @@
+return {true, "gay sex", "owner"}
