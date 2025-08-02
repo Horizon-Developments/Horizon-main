@@ -1,1 +1,1 @@
-return {true, "gay sex", "owner"}
+return {true, "REMOVE ALL JEWS", "owner"}
